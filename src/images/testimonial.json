@@ -1,0 +1,26 @@
+[
+    {
+        "Rating": "4.5",
+        "Name" : "Blake",
+        "image" : "../images/profile_pic_1.jpg",
+        "review" : "I have to say their food is hella fantastic!"
+    },
+    {
+        "Rating": "4",
+        "Name" : "Alizey",
+        "image" : "../images/profile_pic_2.jpg",
+        "review" : "Their food really is like adrug to my taste buds"
+    },
+    {
+        "Rating": "4.2",
+        "Name" : "Ford",
+        "image" : "../images/profile_pic_3.jpg",
+        "review" : "Dammmnn! Their food be bussin' I dig on G"
+    },
+    {
+        "Rating": "5",
+        "Name" : "Zeeko",
+        "image" : "../images/profile_pic_4.jpg",
+        "review" : "Woof! Woof!"
+    }
+]
